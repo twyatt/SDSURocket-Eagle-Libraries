@@ -142,10 +142,10 @@ Source: http://www.molex.com</description>
 <wire x1="-4.7" y1="-16.65" x2="-4.7" y2="-3.95" width="0.254" layer="51"/>
 <wire x1="-0.9" y1="-11.45" x2="-0.9" y2="-8.65" width="0.254" layer="21" curve="-114.529547"/>
 <wire x1="0.9" y1="-11.45" x2="0.9" y2="-8.65" width="0.254" layer="21" curve="114.529547"/>
-<pad name="1" x="2.1" y="-2.75" drill="1.8034" shape="square"/>
-<pad name="2" x="-2.1" y="-2.75" drill="1.8034" shape="square"/>
-<pad name="4" x="-2.1" y="2.75" drill="1.8034" shape="square"/>
-<pad name="3" x="2.1" y="2.75" drill="1.8034" shape="square"/>
+<pad name="1" x="2.1" y="-2.75" drill="1.8" shape="square"/>
+<pad name="2" x="-2.1" y="-2.75" drill="1.8" shape="square"/>
+<pad name="4" x="-2.1" y="2.75" drill="1.8" shape="square"/>
+<pad name="3" x="2.1" y="2.75" drill="1.8" shape="square"/>
 <text x="-5" y="-16" size="1.27" layer="25" font="vector" rot="R90">&gt;Name</text>
 <text x="5" y="-16" size="1.27" layer="27" font="vector" rot="R90" align="top-left">&gt;Value</text>
 <hole x="0" y="-10.05" drill="3"/>
